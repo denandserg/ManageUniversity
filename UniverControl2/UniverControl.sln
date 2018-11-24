@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniverControl", "UniverControl\UniverControl.csproj", "{E60FE089-29F7-4C3B-BFCC-7B9FBB42740B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTest", "UnitTest\UnitTest.csproj", "{D90D397E-7589-4DA3-9CD5-63377E290E7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E60FE089-29F7-4C3B-BFCC-7B9FBB42740B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E60FE089-29F7-4C3B-BFCC-7B9FBB42740B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E60FE089-29F7-4C3B-BFCC-7B9FBB42740B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E60FE089-29F7-4C3B-BFCC-7B9FBB42740B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D90D397E-7589-4DA3-9CD5-63377E290E7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D90D397E-7589-4DA3-9CD5-63377E290E7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D90D397E-7589-4DA3-9CD5-63377E290E7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D90D397E-7589-4DA3-9CD5-63377E290E7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1DB56AC3-D9A0-404F-99B9-96B7F0F233FD}
+	EndGlobalSection
+EndGlobal
